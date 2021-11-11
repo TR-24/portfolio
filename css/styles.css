@@ -3638,8 +3638,8 @@ fieldset:disabled .btn {
 }
 
 .btn-outline-light {
-  color: #f8f9fa;
-  border-color: #f8f9fa;
+  color: #bc1a1a;
+  border-color: #bc1a1a;
 }
 .btn-outline-light:hover {
   color: #000;
@@ -3656,8 +3656,8 @@ fieldset:disabled .btn {
 .btn-outline-light.active,
 .btn-outline-light.dropdown-toggle.show {
   color: #000;
-  background-color: #f8f9fa;
-  border-color: #f8f9fa;
+  background-color: #bc1a1a;
+  border-color: #bc1a1a;
 }
 .btn-check:checked + .btn-outline-light:focus,
 .btn-check:active + .btn-outline-light:focus,

@@ -617,7 +617,7 @@ progress {
   margin-top: -1rem;
   margin-bottom: 1rem;
   font-size: 0.875em;
-  color: #bc1a1a;
+  color: #7d6c6c;
 }
 .blockquote-footer::before {
   content: '— ';
@@ -3638,13 +3638,13 @@ fieldset:disabled .btn {
 }
 
 .btn-outline-light {
-  color: #bc1a1a;
-  border-color: #bc1a1a;
+  color: #f8f9fa;
+  border-color: #f8f9fa;
 }
 .btn-outline-light:hover {
   color: #000;
-  background-color: #bc1a1a;
-  border-color: #bc1a1a;
+  background-color: #f8f9fa;
+  border-color: #f8f9fa;
 }
 .btn-check:focus + .btn-outline-light,
 .btn-outline-light:focus {
@@ -3656,8 +3656,8 @@ fieldset:disabled .btn {
 .btn-outline-light.active,
 .btn-outline-light.dropdown-toggle.show {
   color: #000;
-  background-color: #bc1a1a;
-  border-color: #bc1a1a;
+  background-color: #f8f9fa;
+  border-color: #f8f9fa;
 }
 .btn-check:checked + .btn-outline-light:focus,
 .btn-check:active + .btn-outline-light:focus,

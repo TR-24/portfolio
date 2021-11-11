@@ -617,7 +617,7 @@ progress {
   margin-top: -1rem;
   margin-bottom: 1rem;
   font-size: 0.875em;
-  color: #6c757d;
+  color: #bc1a1a;
 }
 .blockquote-footer::before {
   content: '— ';
@@ -5857,7 +5857,7 @@ fieldset:disabled .btn {
   flex-wrap: wrap;
   flex-shrink: 0;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end;
   padding: 0.75rem;
   border-top: 0.125rem solid #dee2e6;
   border-bottom-right-radius: 0.625rem;

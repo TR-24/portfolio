@@ -62,7 +62,7 @@ $('#movie-list').on('click', '.see-detail', function () {
         type: 'get',
         data: {
             'apikey': 'dca61bcc',
-            'i': $(this).data('id')
+            't': $(this).data('id')
         },
         success: function (movie) {
             if (movie.Response === "True") {

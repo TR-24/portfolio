@@ -58,7 +58,7 @@ function searchMovie() {
       type: 'get',
       dataType: 'json',
       data: {
-          'apikey': 'dca61bcc',
+          'apikey': 'ed712282',
           's': $('#search-input').val()
       },
       success: function (result) {
@@ -111,7 +111,7 @@ $('#movie-list').on('click', '.see-detail', function () {
       dataType: 'json',
       type: 'get',
       data: {
-          'apikey': 'dca61bcc',
+          'apikey': 'ed712282',
           'i': $(this).data('id')
       },
       success: function (movie) {
